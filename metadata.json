@@ -1,0 +1,7 @@
+{
+  "name": "HireHub - Professional Job Portal",
+  "description": "A comprehensive job portal system featuring role-based access for seekers, employers, and admins. Features include job searching, application tracking, employer management, and an admin dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
